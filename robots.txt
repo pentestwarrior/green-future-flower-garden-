@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://green-future-flower-garden.vercel.app/sitemap.xml
